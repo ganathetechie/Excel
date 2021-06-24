@@ -1,2 +1,2 @@
 # ExploratoryDataAnalysisWithExcel
-The repository from youtube series 
+The repository developed from a youtube series 
